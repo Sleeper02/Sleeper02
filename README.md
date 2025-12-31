@@ -1,16 +1,17 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Nicolas Fernandes</h1>
+<h3 align="center">A backend developer from Brazil</h3>
 
-<!--
-**Sleeper02/Sleeper02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Status](./profile-3d-contrib/profile-night-rainbow.svg)
 
-Here are some ideas to get you started:
+ | [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sleeper02&theme=dracula&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sleeper02&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |  
+ | ----------- | ----------- |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+ 
+  <div align="center" >
+<a href="https://skillicons.dev"   >
+  <img src="https://skillicons.dev/icons?i=git,java,postgresql,react,javascript,typescript,css,html,github,mongodb,python,c,c#" />
+</a>
+  <br />
+
+  </div>
